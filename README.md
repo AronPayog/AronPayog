@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AronPayog
+- 👀 I’m interested in Software and Hardware.
+- 🌱 I’m currently learning Programming language.
